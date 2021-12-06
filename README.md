@@ -1,3 +1,3 @@
 # OOP ATM and Builder Lab
 
-![cat](img/cat)
+![cat](img/cat.jpg)
